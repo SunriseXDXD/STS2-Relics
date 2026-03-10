@@ -1,0 +1,13 @@
+{
+  "Cooking Option": {
+    "TEXT": [
+      "Cook",
+      "Select 2 cards to remove from your deck and gain 9 Max HP."
+    ]
+  },
+  "CampfireCookingEffect": {
+    "TEXT": [
+      "Select 2 cards to cook:"
+    ]
+  }
+}

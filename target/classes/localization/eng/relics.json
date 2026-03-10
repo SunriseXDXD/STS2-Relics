@@ -1,0 +1,13 @@
+{
+  "STS2Relics:CampfireCooking": {
+    "NAME": "Campfire Cooking",
+    "DESCRIPTIONS": [
+      "At campfires, you can choose to cook. Select 2 cards to remove from your deck and gain 9 Max HP.",
+      "Cook",
+      "Select 2 cards to remove from your deck and gain 9 Max HP.",
+      "Select 2 cards to cook:",
+      "You cooked and removed: ",
+      " and gained 9 Max HP."
+    ]
+  }
+}

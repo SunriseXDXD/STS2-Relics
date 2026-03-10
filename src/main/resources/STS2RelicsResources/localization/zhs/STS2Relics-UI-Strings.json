@@ -1,0 +1,13 @@
+{
+  "Cooking Option": {
+    "TEXT": [
+      "烹饪",
+      "选择2张牌从你的牌组中移除并获得9点最大生命值。"
+    ]
+  },
+  "CampfireCookingEffect": {
+    "TEXT": [
+      "选择2张牌进行烹饪："
+    ]
+  }
+}
